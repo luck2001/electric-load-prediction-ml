@@ -72,7 +72,9 @@ Use time-series models like LSTM
 LUCKY DAYARAM KAWALKAR
  Data Aanalyst
 📞 +91 78409 88583
+
 ✉️ luckykawalkar1234@gmail.com
+
 [LINKDIN]= https://www.linkedin.com/in/lucky-dayaram-kawalkar-608729266/
 
 
